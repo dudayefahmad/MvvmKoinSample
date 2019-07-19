@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MvvmKoinSample</string>
+    <string name="input_launch_code">Input Launch Code</string>
+    <string name="validation">Validation</string>
+    <string name="generic_error">We are very sorry for the inconvenience here, no worries you could always try again
+    </string>
+    <string name="success">Success</string>
+    <string name="minimal_input">Please input 6 digit number</string>
+</resources>
